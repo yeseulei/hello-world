@@ -1,3 +1,2 @@
-# hello-world
-Create a sample project.
-I am an aspiring work from home contributor.
+# Develop Copy
+I am copying the fork to my profile from the test instruction.
